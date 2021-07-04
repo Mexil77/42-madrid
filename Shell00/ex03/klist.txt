@@ -1,0 +1,5 @@
+Credentials cache: API:B4DBD913-4257-419C-84F5-AB9361EFE1A6
+        Principal: emgarcia@42MADRID.COM
+
+  Issued                Expires             Flags    Principal
+Jun 21 14:09:34 2021  Jun 22 00:09:29 2021  FPIA   krbtgt/42MADRID.COM@42MADRID.COM
